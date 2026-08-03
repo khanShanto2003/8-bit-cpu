@@ -1,0 +1,9 @@
+{
+    "DESIGN_NAME": "alu8",
+
+    "VERILOG_FILES": [
+        "dir::src/alu8.v"
+    ],
+
+    "FP_PDN_MULTILAYER": true
+}
