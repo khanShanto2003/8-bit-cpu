@@ -1,0 +1,10 @@
+{
+    "DESIGN_NAME": "reg8",
+    "VERILOG_FILES": [
+        "dir::src/reg8.v"
+    ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10,
+    "FP_CORE_UTIL": 40,
+    "PL_TARGET_DENSITY_PCT": 50
+}
