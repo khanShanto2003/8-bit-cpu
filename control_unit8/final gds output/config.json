@@ -1,0 +1,21 @@
+{
+    "DESIGN_NAME": "control_unit",
+    "VERILOG_FILES": "dir::src/*.v",
+
+    "FP_SIZING": "relative",
+    "FP_CORE_UTIL": 20,
+    "PL_TARGET_DENSITY": 0.35,
+
+    "FP_PDN_VWIDTH": 0.48,
+    "FP_PDN_HWIDTH": 0.48,
+    "FP_PDN_VPITCH": 10,
+    "FP_PDN_HPITCH": 10,
+    "FP_PDN_VOFFSET": 2,
+    "FP_PDN_HOFFSET": 2,
+
+    "SYNTH_STRATEGY": "AREA 0",
+
+    "RUN_CTS": false,
+
+    "DESIGN_IS_CORE": false
+}
