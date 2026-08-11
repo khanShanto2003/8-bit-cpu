@@ -155,9 +155,5 @@ Each sub-block follows the same layout — RTL through final signed-off GDS:
 
 ## Author
 
-[Shanto] — Final-year B.Sc. EEE student, Bangladesh University of Business and Technology (BUBT).
-[LinkedIn / email — add here]
-
-## License
-
-[Add a license — e.g. MIT — if you want others to freely reuse this code]
+Shanto — Final-year B.Sc. EEE student, Bangladesh University of Business and Technology (BUBT).
+Email: khanshanto2002@gmail.com
