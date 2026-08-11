@@ -149,10 +149,6 @@ Each sub-block follows the same layout — RTL through final signed-off GDS:
             └── Routing Vias
 ```
 
-## Extensions
-
-- A **4:1 MUX** was implemented as an additional standalone RTL-to-GDS exercise, applying the same verified flow.
-
 ## Author
 
 Shanto — Final-year B.Sc. EEE student, Bangladesh University of Business and Technology (BUBT).
