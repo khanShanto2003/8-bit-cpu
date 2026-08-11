@@ -90,7 +90,7 @@ nix-shell flow.tcl
 
 PVT corners verified: `nom/min/max` × `tt_025C_1v80`, `ss_100C_1v60`, `ff_n40C_1v95` — all clean.
 
-Full metrics: [`top_cpu8/Final GDS Output/metrics.csv`](./top_cpu8/Final%20GDS%20Output/metrics.csv)
+Full metrics: [`top_cpu8/final gds output/metrics.csv`](./top_cpu8/final%20gds%20output/metrics.csv)
 
 ## Toolchain
 
